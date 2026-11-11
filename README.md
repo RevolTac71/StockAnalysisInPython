@@ -1,4 +1,7 @@
 # 파이썬 증권 데이터 분석 (Stock Analysis in Python)
+
+> 이 저장소는 『파이썬 증권 데이터 분석』의 코드와 부속 자료를 담은 학습용 자료입니다. 원본 출처와 사용 안내는 아래를 참고하세요. 원본 저장소: [INVESTAR/StockAnalysisInPython](https://github.com/INVESTAR/StockAnalysisInPython).
+
 본 깃허브에서는 『파이썬 증권 데이터 분석』(한빛출판사, 2020) 서적과 관련된 소스 코드와 추가 자료를 공유합니다.
 
 - 소스 코드는 각 장별 디렉터리에 존재하며, 이미지 파일들은 각 장별로 imgs 디렉터리에 존재합니다.
